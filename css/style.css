@@ -24,3 +24,7 @@
     top:15%;
     left: 40%;
 }
+
+body{
+    background-image: url(/imagenes/fondo.jpg);
+}
