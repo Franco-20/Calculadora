@@ -12,22 +12,16 @@
     height:70px;
     font-size:25px;
     margin: 2px;
-    cursor: pointer;
     background-color: whitesmoke;
     border: none;
     border-radius: 10%;
 }
 .textview{
-    width: 300px;
+    width:300px;
     font-size:40px;
     padding:15px;
-    margin-bottom:10px ;
-    border-radius:15%;    
-}
-.main{
-    position: absolute;
-    top:15%;
-    left: 40%;
+    border-radius:15%;
+    border: none;
 }
 #igual{
     background-color: rgb(10, 163, 163);
@@ -68,4 +62,5 @@ main{
 }
 body{
     background-image: url(/imagenes/fondo.jpg);
+    display: f;
 }
