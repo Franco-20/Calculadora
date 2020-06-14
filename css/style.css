@@ -5,7 +5,7 @@
 .button{
     width: 70px;
     height:70px;
-    font-size:20px;
+    font-size:25px;
     margin: 2px;
     cursor: pointer;
     background-color: whitesmoke;
@@ -14,7 +14,7 @@
 }
 .textview{
     width: 300px;
-    font-size:30px;
+    font-size:40px;
     padding:15px;
     margin-bottom:10px ;
     border-radius:15%;    
@@ -24,7 +24,42 @@
     top:15%;
     left: 40%;
 }
-
+#igual{
+    background-color: rgb(10, 163, 163);
+    font-size: 40px;
+}
+#mas{
+    font-size: 30px;
+    background-color: tomato;
+}
+#menos{
+    font-size: 40px;
+    background-color: rgb(189, 110, 241);
+}
+#multipicacion{
+    font-size: 30px;
+    background-color: yellow;
+}
+#divicion{
+    font-size: 30px;
+    background-color: RGB(255, 222, 173);
+}
+#borrar{
+    font-size: 40px;
+    background-color: red;
+}
+#punto{
+    font-size: 40px;
+    background-color: rgb(95, 135, 255);
+}
+.color{
+    background-color: rgb(97, 255, 251) ;
+}
+.numero{
+    background-color:RGB(255, 248, 220) ;
+}
 body{
     background-image: url(/imagenes/fondo.jpg);
+    background-repeat:;
+    
 }
