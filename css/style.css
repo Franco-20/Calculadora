@@ -2,6 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
+.titulo{
+    font-family: 'Sriracha', cursive;
+    margin: 20px;
+    font-size: 50px;
+}
 .button{
     width: 70px;
     height:70px;
@@ -58,8 +63,9 @@
 .numero{
     background-color:RGB(255, 248, 220) ;
 }
+main{
+    background-color: lightseagreen;
+}
 body{
     background-image: url(/imagenes/fondo.jpg);
-    background-repeat:;
-    
 }
